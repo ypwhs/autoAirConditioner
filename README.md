@@ -8,7 +8,7 @@
 
 介绍了制作的过程.
 
-##[编程篇](Programming.md)
+##[代码篇](Programming.md)
 
 详细地讲解了代码.
 
