@@ -6,7 +6,7 @@
 | 名称	| 图片	| 价格	| 链接	|
 |----	|----	|----	|----	|
 | Arduino	| ![](screen/nano.png)	| 24	| [Arduino Nano](http://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-1685197539.15.8GlHtd&id=15733833441)	|
-| 扩展板	|	![](screen/kzb.jpg)	| 10	| [](http://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-1685211022.18.tIa5g1&id=21678604895)	|
+| 扩展板	|	![](screen/kzb.png)	| 10	| [](http://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-1685211022.18.tIa5g1&id=21678604895)	|
 | mini USB线	| ![](screen/miniusb.png)	| 2.5	| [mini USB](http://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-1685197539.15.jVZ8R7&id=40351849521)	|
 | DS3231	| ![](screen/ds3231.png)	| 5	| [DS3231](http://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-1685197539.9.zM67k6&id=37488105948)	|
 | **I2C** LCD2004	| ![](screen/2004.png)	| 21	| [LCD2004](http://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-1685197539.15.2V98uJ&id=19385040494)	|
