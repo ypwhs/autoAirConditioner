@@ -15,3 +15,18 @@
 | 杜邦线	| ![](screen/dbx.png)	| 3.5	| [杜邦线](http://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-1685211022.14.6rCGUc&id=6203202913)	|
 | FUTABA S3003	| ![](screen/s3003.png)	| 55	| [S3003](http://item.taobao.com/item.htm?spm=a230r.1.14.24.It07lO&id=35577062480&ns=1&abbucket=14#detail)	|
 | WIFI模块(买内置天线的)	| ![](screen/wifi.png)	| 144	| [WIFI](http://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-5602082699.69.b2opiF&id=22288063406&rn=7bcc4a5a12cc9e0be7ff90f1e38b9644&abbucket=16)	|
+
+
+##可能需要的工具和材料
+
+* 焊台/电烙铁
+* 焊锡丝
+* 排针/排母
+* 热熔胶枪
+* 热熔胶棒
+* 剪刀
+* 剥线钳
+* 斜口钳
+* 尖嘴钳
+* ABS板
+* 钩刀
