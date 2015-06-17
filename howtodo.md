@@ -44,6 +44,8 @@
 | SDA	| SDA	|
 | SCL	| SCL	|
 
+![](screen/i2c.jpg)
+
 ##DHT22
 
 DHT22采用单总线协议,与DHT11协议相同,因此只用一个IO口即可读取温湿度信息.
